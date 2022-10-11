@@ -1,0 +1,3 @@
+annotationsdemo.CustomAnnotationDemo
+annotationsdemo.SmartPhone
+annotationsdemo.NokiaASeries

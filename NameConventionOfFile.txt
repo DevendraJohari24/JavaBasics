@@ -1,0 +1,9 @@
+Why name of the file same as the class?
+
+It's not compulsory if we declare different names we 
+just have to compile it by using Class Name declared
+
+But there is a twist
+If we declare our main class as public it throws error if we declare it 
+different than file name
+Any public class should have same name as file name
